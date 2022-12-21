@@ -7,5 +7,7 @@ Description in the DavideSito_HaarGPU.pdf.
 
 Code in  /source.
 
+https://github.com/sitodav/2D-Haar-Transform/blob/master/sources/haar.png
+
  
 
