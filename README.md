@@ -6,8 +6,8 @@ My implementation of 2D Haar Transform (Wavelet Haar) on images, using paralleli
 Description in the DavideSito_HaarGPU.pdf.
 
 Code in  /source.
+![This is an image](https://github.com/sitodav/2D-Haar-Transform/blob/master/sources/haar.png)
 
-https://github.com/sitodav/2D-Haar-Transform/blob/master/sources/haar.png
 
  
 
