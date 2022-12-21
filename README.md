@@ -1,7 +1,5 @@
 # 2D-Haar-Transform
-2D Haar Transform using CUDA
-
-My implementation of 2D Haar Transform (Wavelet Haar) on images, using parallelism on GPU.
+2D Haar Transform using GPU programming.
 
 Description in the DavideSito_HaarGPU.pdf.
 
